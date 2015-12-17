@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC3AD2A81C226171003126C0 /* RandomFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC3AD2A71C226171003126C0 /* RandomFunction.swift */; };
 		AC8EDDA61C17C11A005DECBF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC8EDDA51C17C11A005DECBF /* AppDelegate.swift */; };
 		AC8EDDA81C17C11A005DECBF /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = AC8EDDA71C17C11A005DECBF /* GameScene.sks */; };
 		AC8EDDAA1C17C11A005DECBF /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC8EDDA91C17C11A005DECBF /* GameScene.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AC3AD2A71C226171003126C0 /* RandomFunction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RandomFunction.swift; sourceTree = "<group>"; };
 		AC8EDDA21C17C11A005DECBF /* FlappyClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlappyClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC8EDDA51C17C11A005DECBF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AC8EDDA71C17C11A005DECBF /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				AC8EDDA51C17C11A005DECBF /* AppDelegate.swift */,
 				AC8EDDA71C17C11A005DECBF /* GameScene.sks */,
 				AC8EDDA91C17C11A005DECBF /* GameScene.swift */,
+				AC3AD2A71C226171003126C0 /* RandomFunction.swift */,
 				AC8EDDAB1C17C11A005DECBF /* GameViewController.swift */,
 				AC8EDDAD1C17C11A005DECBF /* Main.storyboard */,
 				AC8EDDB01C17C11A005DECBF /* Assets.xcassets */,
@@ -265,6 +268,7 @@
 			files = (
 				AC8EDDAA1C17C11A005DECBF /* GameScene.swift in Sources */,
 				AC8EDDAC1C17C11A005DECBF /* GameViewController.swift in Sources */,
+				AC3AD2A81C226171003126C0 /* RandomFunction.swift in Sources */,
 				AC8EDDA61C17C11A005DECBF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -494,6 +498,7 @@
 				AC8EDDD01C17C11A005DECBF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AC8EDDD11C17C11A005DECBF /* Build configuration list for PBXNativeTarget "FlappyCloneTests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +507,7 @@
 				AC8EDDD31C17C11A005DECBF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AC8EDDD41C17C11A005DECBF /* Build configuration list for PBXNativeTarget "FlappyCloneUITests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +516,7 @@
 				AC8EDDD61C17C11A005DECBF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
