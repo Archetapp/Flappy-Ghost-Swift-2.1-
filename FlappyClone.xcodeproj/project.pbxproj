@@ -17,6 +17,7 @@
 		AC8EDDB41C17C11A005DECBF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC8EDDB21C17C11A005DECBF /* LaunchScreen.storyboard */; };
 		AC8EDDBF1C17C11A005DECBF /* FlappyCloneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC8EDDBE1C17C11A005DECBF /* FlappyCloneTests.swift */; };
 		AC8EDDCA1C17C11A005DECBF /* FlappyCloneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC8EDDC91C17C11A005DECBF /* FlappyCloneUITests.swift */; };
+		ACF2A0A01C505F90002D1499 /* 04B_19__.TTF in Resources */ = {isa = PBXBuildFile; fileRef = ACF2A09F1C505F90002D1499 /* 04B_19__.TTF */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		AC8EDDC51C17C11A005DECBF /* FlappyCloneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlappyCloneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC8EDDC91C17C11A005DECBF /* FlappyCloneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlappyCloneUITests.swift; sourceTree = "<group>"; };
 		AC8EDDCB1C17C11A005DECBF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACF2A09F1C505F90002D1499 /* 04B_19__.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = 04B_19__.TTF; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 		AC8EDDA41C17C11A005DECBF /* FlappyClone */ = {
 			isa = PBXGroup;
 			children = (
+				ACF2A09F1C505F90002D1499 /* 04B_19__.TTF */,
 				AC8EDDA51C17C11A005DECBF /* AppDelegate.swift */,
 				AC8EDDA71C17C11A005DECBF /* GameScene.sks */,
 				AC8EDDA91C17C11A005DECBF /* GameScene.swift */,
@@ -240,6 +243,7 @@
 			files = (
 				AC8EDDA81C17C11A005DECBF /* GameScene.sks in Resources */,
 				AC8EDDB41C17C11A005DECBF /* LaunchScreen.storyboard in Resources */,
+				ACF2A0A01C505F90002D1499 /* 04B_19__.TTF in Resources */,
 				AC8EDDB11C17C11A005DECBF /* Assets.xcassets in Resources */,
 				AC8EDDAF1C17C11A005DECBF /* Main.storyboard in Resources */,
 			);
